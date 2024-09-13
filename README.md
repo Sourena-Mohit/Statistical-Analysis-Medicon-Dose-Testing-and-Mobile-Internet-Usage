@@ -112,7 +112,7 @@ This repository showcases the use of statistical methods, including **inferentia
 
 ## Author
 
-Sourena Mohit Tabatabaie
+Sourena Mohit Tabatabaie , 
 from MIT applied Data Science program   
 
 ---
@@ -127,4 +127,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-url
+   git clone https://github.com/Sourena-Mohit/Statistical-Analysis-Medicon-Dose-Testing-and-Mobile-Internet-Usage
